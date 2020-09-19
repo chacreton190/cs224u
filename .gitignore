@@ -66,3 +66,11 @@ nli-data/*
 nlidata/*
 rel_ext_data*
 *_solved.ipynb
+Lectures/data/glove.6B/._glove.6B.100d.txt
+Lectures/data/glove.6B/._glove.6B.200d.txt
+Lectures/data/glove.6B/._glove.6B.300d.txt
+Lectures/data/glove.6B/._glove.6B.50d.txt
+Lectures/data/glove.6B/glove.6B.100d.txt
+Lectures/data/glove.6B/glove.6B.200d.txt
+Lectures/data/glove.6B/glove.6B.300d.txt
+Lectures/data/glove.6B/glove.6B.50d.txt
